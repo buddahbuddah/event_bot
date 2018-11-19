@@ -162,6 +162,7 @@ def build_deeper(args):
 
 
 NAME = 'eventdict'
+TOKEN = ''
 events = load_obj(NAME)
 
 
